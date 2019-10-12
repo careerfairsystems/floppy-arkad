@@ -154,6 +154,15 @@ Screen - Game
    width: 100%;
 }
 
+#over-ceiling
+{
+   position: absolute;
+   top: -216px;
+   height: 200px;
+   width: 100%;
+   background-color: #042b60;
+}
+
 #ceiling
 {
    position: absolute;
